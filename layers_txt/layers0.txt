@@ -18,9 +18,7 @@
       "id": "pale",
       "title": "淡色地図",
       "iconUrl": "",
-      "url": "http://dronebird.github.io/oam_laketown2016bosaifes/tiles/{z}/{x}/{y}.png
-
-",
+      "url": "http://dronebird.github.io/oam_laketown2016bosaifes/tiles/{z}/{x}/{y}.png",
       "subdomains": "",
       "attribution": "",
       "cocotile": true,
