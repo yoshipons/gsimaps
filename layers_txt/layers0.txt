@@ -17,8 +17,10 @@
       "type": "Layer",
       "id": "pale",
       "title": "淡色地図",
-      "iconUrl": "",
-      "url": "http://cyberjapandata.gsi.go.jp/xyz/pale/{z}/{x}/{y}.png",
+      "iconUrl": "",g
+      "url": "http://dronebird.github.io/oam_laketown2016bosaifes/tiles/{z}/{x}/{y}.png
+
+",
       "subdomains": "",
       "attribution": "",
       "cocotile": true,
